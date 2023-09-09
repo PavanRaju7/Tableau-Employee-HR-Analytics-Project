@@ -4,6 +4,12 @@
 # Employee Data Analytics Overview
 Welcome to the Employee HR Analytics project, where we dive deep into our employee data to extract valuable insights that drive informed HR decisions and improve our workforce management strategies.
 
+# DASHBOARD
+
+
+<img width="689" alt="HR PROJECT" src="https://github.com/PavanRaju7/Tableau-Employee-HR-Analytics-Project/assets/137611634/040c17c0-c827-427c-8cfc-d0b73e30293e">
+
+
 # Key Analytics Metrics
 * This project focuses on the following key HR analytics metrics:
 
